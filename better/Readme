@@ -1,0 +1,6 @@
+Readme
+
+use make to compile
+type ./a.out to ouput 
+
+part 3 need to change LINKCHANGES from 0 to 1 
